@@ -45,4 +45,9 @@ Proje kapsamında modeller, aşağıdaki ölçütlerle değerlendirilmiştir:
   4. ELECTRA
   5. GPT-2
 
+## Performans Metriklerinin Karşılaştırması
+
+Aşağıdaki grafik, farklı Transformer modellerinin doğruluk, geri çağırma, kesinlik ve F1-Skor metriklerini karşılaştırmaktadır:
+
+![Performance Metrics Comparison](grafik.png)
 
